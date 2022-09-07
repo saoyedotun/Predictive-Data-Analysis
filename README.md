@@ -7,10 +7,10 @@
 [//]: # (3. [Class Problem 3]&#40;/Class_Problem_3&#41;)
 
 * 📦[Class Problem 1](/Class_Problem_1/)<br>
-  ┗ 📜[pdf solution](/Class_Problem_1/SODIQ_OYEDOTUN_T00674628_PDA_CLASS_PROBLEM_SOLUTION.pdf)
+  ┗ 📜[pdf solution](/Class_Problem_1/PDA_CLASS_PROBLEM_1_SOLUTION.pdf)
 * 📦[Class Problem 2](/Class_Problem_2/)<br>
-  ┗ 📜[pdf solution](/Class_Problem_2/SODIQ_OYEDOTUN_T00674628_PDA_CLASS_PROBLEM_2_SOLUTION.pdf)<br>
-  ┗ 📜[xlsx solution](/Class_Problem_2/SODIQ_OYEDOTUN_T00674628_PDA_CLASS_PROBLEM_2_SOLUTION.xlsx)
+  ┗ 📜[pdf solution](/Class_Problem_2/PDA_CLASS_PROBLEM_2_SOLUTION.pdf)<br>
+  ┗ 📜[xlsx solution](/Class_Problem_2/PDA_CLASS_PROBLEM_2_SOLUTION.xlsx)
 * 📦[Class Problem 3](/Class_Problem_3/)<br>
-  ┗ 📜[pdf solution](/Class_Problem_3/SODIQ_OYEDOTUN_T00674628_PDA_CLASS_PROBLEM_3_SOLUTION.pdf)<br>
-  ┗ 📜[xlsx solution](/Class_Problem_3/SODIQ_OYEDOTUN_T00674628_PDA_CLASS_PROBLEM_3_SOLUTION.xlsx)
+  ┗ 📜[pdf solution](/Class_Problem_3/PDA_CLASS_PROBLEM_3_SOLUTION.pdf)<br>
+  ┗ 📜[xlsx solution](/Class_Problem_3/PDA_CLASS_PROBLEM_3_SOLUTION.xlsx)
