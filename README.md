@@ -9,10 +9,10 @@
   ┗ 📜[pdf solution](/Class_Problem_3/PDA_CLASS_PROBLEM_3_SOLUTION.pdf)<br>
   ┗ 📜[xlsx solution](/Class_Problem_3/PDA_CLASS_PROBLEM_3_SOLUTION.xlsx)
 * 📦[Simple Regression](/Excel_Assignment/Simple_Regression)<br>
-  ┗ 📜[question](/Excel_Assignment/Simple_Regression/PDA%20Assignment%203%20Instructions.pdf)<br>
-  ┗ 📜[default_answer_sheet](/Excel_Assignment/Simple_Regression/SRSpreadsheet.xlsx)<br>
-  ┗ 📜[xlsx solution](/Excel_Assignment/Simple_Regression/SRSpreadsheet_Solution.xlsx)
+  ┗ 📜[problem](/Excel_Assignment/Simple_Regression/PDA%20Assignment%203%20Instructions.pdf)<br>
+  ┗ 📜[answer_sheet](/Excel_Assignment/Simple_Regression/SRSpreadsheet.xlsx)<br>
+  ┗ 📜[solution](/Excel_Assignment/Simple_Regression/SRSpreadsheet_Solution.xlsx)
 * 📦[Multiple Regression](/Excel_Assignment/Multiple_Regression)<br>
-  ┗ 📜[question](/Excel_Assignment/Multiple_Regression/PDA%20Assignment%204%20Multiple%20Regression.pdf)<br>
-  ┗ 📜[default_answer_sheet](/Excel_Assignment/Multiple_Regression/PDAData2.xlsx)<br>
-  ┗ 📜[xlsx solution](/Excel_Assignment/Multiple_Regression/PDAData2_Solution.xlsx)
+  ┗ 📜[problem](/Excel_Assignment/Multiple_Regression/PDA%20Assignment%204%20Multiple%20Regression.pdf)<br>
+  ┗ 📜[answer_sheet](/Excel_Assignment/Multiple_Regression/PDAData2.xlsx)<br>
+  ┗ 📜[solution](/Excel_Assignment/Multiple_Regression/PDAData2_Solution.xlsx)
