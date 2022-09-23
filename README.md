@@ -16,3 +16,5 @@
   ┗ 📜[problem](/Excel_Assignment/Multiple_Regression/PDA%20Assignment%204%20Multiple%20Regression.pdf)<br>
   ┗ 📜[answer_sheet](/Excel_Assignment/Multiple_Regression/PDAData2.xlsx)<br>
   ┗ 📜[solution](/Excel_Assignment/Multiple_Regression/PDAData2_Solution.xlsx)
+* 📦[Regression Challenge](/Excel_Assignment/)<br>
+  ┗ 📜[solution](/Excel_Assignment/RegressionChallenge.xlsx)
