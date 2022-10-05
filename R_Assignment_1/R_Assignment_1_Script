@@ -1,0 +1,33 @@
+# Step 1
+library("Rcmdr")
+
+Dataset <- readXL("//apporto.com/dfs/UALR/Users/saoyedotun_ualr/Desktop/AmesInput.xlsx", rownames=FALSE, 
+  header=TRUE, na="", sheet="AmesforR (2)", stringsAsFactors=TRUE)
+
+summary(Dataset)
+
+# Step 2
+ordinary_least_squares <- lm(saleprice~bedroomabvgr, data=Dataset)
+summary(ordinary_least_squares)
+
+# Step 3
+ordinary_least_squares_model_2 <- lm(saleprice~yrsold+fullbath+lotarea, data=Dataset)
+summary(ordinary_least_squares_model_2)
+
+# Step 4
+ordinary_least_squares_model_3 <- lm(saleprice ~ yrsold + bedroomabvgr + lotarea + exterqual1 + exterqual2 + exterqual3 + exterqual4, data = Dataset)
+summary(ordinary_least_squares_model_3)
+
+# Step 5
+Dataset$loglotarea <- with(Dataset, log(lotarea))
+ordinary_least_squares_model_4 <- lm(saleprice ~ yrsold + fullbath + loglotarea + exterqual1 + exterqual2 + exterqual3 + exterqual4, data = Dataset)
+summary(ordinary_least_squares_model_4)
+
+# Step 6
+Dataset$logsaleprice <- with(Dataset, log(saleprice))
+ordinary_least_squares_model_5 <- lm(logsaleprice ~ yrsold + bedroomabvgr + lotarea + loglotarea  + exterqual1 + exterqual2 + exterqual3 + exterqual4, data = Dataset)
+summary(ordinary_least_squares_model_5)
+
+# Step 7
+ordinary_least_squares_model_6 <- lm(bedroomabvgr ~ yrsold + fullbath + loglotarea + exterqual1 + exterqual2 + exterqual3 + exterqual4, data = Dataset)
+summary(ordinary_least_squares_model_6)

@@ -16,6 +16,9 @@
   ┗ 📜[problem](/Excel_Assignment/Multiple_Regression/PDA%20Assignment%204%20Multiple%20Regression.pdf)<br>
   ┗ 📜[answer_sheet](/Excel_Assignment/Multiple_Regression/PDAData2.xlsx)<br>
   ┗ 📜[solution](/Excel_Assignment/Multiple_Regression/PDAData2_Solution.xlsx)
-* 📦[Regression Challenge](/Excel_Assignment/RegressionChallenge.xlsx)<br>
-  ┗ 📜[solution](/Excel_Assignment/RegressionChallenge.xlsx)
+* 📦[R Assignment 1](/R_Assignment_1/)<br>
+  ┗ 📜[question](/R_Assignment_1/RAssignment1PAF22.docx)<br>
+  ┗ 📜[pdf solution](/R_Assignment_1/SODIQ_OYEDOTUN_T00674628_R_Assignment_1_Step_8_Appendix.pdf)<br>
+  ┗ 📜[word solution](/R_Assignment_1/SODIQ_OYEDOTUN_T00674628_R_Assignment_1_Step_8_Appendix.docx)<br>
+  ┗ 📜[r script](/R_Assignment_1/R_Assignment_1_Script)<br>
 
