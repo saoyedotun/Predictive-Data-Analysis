@@ -20,5 +20,9 @@
   ┗ 📜[question](/R_Assignment_1/RAssignment1PAF22.docx)<br>
   ┗ 📜[pdf solution](/R_Assignment_1/SODIQ_OYEDOTUN_T00674628_R_Assignment_1_Step_8_Appendix.pdf)<br>
   ┗ 📜[word solution](/R_Assignment_1/SODIQ_OYEDOTUN_T00674628_R_Assignment_1_Step_8_Appendix.docx)<br>
-  ┗ 📜[r script](/R_Assignment_1/R_Assignment_1_Script)<br>
+  ┗ 📜[r script](/R_Assignment_1/R_Assignment_1_Script)
+* 📦[PDA Exam 1](/PDA_Exam_1)<br>
+  ┗ 📜[exam question](/PDA_Exam_1/Exam1PredictiveF22.docx)<br>
+  ┗ 📜[excel solution [part]](/PDA_Exam_1/SODIQ_OYEDOTUN_T00674628_PDA_EXAM_1_SOLUTION.xlsx)<br>
+  ┗ 📜[docx solution [complete]](/PDA_Exam_1/SODIQ_OYEDOTUN_T00674628_PDA_EXAM_1_SOLUTION.docx)
 
