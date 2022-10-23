@@ -25,4 +25,7 @@
   ┗ 📜[exam question](/PDA_Exam_1/Exam1PredictiveF22.docx)<br>
   ┗ 📜[excel solution [part]](/PDA_Exam_1/SODIQ_OYEDOTUN_T00674628_PDA_EXAM_1_SOLUTION.xlsx)<br>
   ┗ 📜[docx solution [complete]](/PDA_Exam_1/SODIQ_OYEDOTUN_T00674628_PDA_EXAM_1_SOLUTION.docx)
+* 📦[R Assignment 2](/R_Assignment_2/)<br>
+  ┗ 📜[question](/R_Assignment_2/RAssignment2PAF22.docx)<br>
+  ┗ 📜[midus data](/R_Assignment_2/MidusCollege2022.xls)
 
