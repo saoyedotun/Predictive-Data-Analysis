@@ -27,5 +27,7 @@
   ┗ 📜[docx solution [complete]](/PDA_Exam_1/SODIQ_OYEDOTUN_T00674628_PDA_EXAM_1_SOLUTION.docx)
 * 📦[R Assignment 2](/R_Assignment_2/)<br>
   ┗ 📜[question](/R_Assignment_2/RAssignment2PAF22.docx)<br>
-  ┗ 📜[midus data](/R_Assignment_2/MidusCollege2022.xls)
+  ┗ 📜[midus data](/R_Assignment_2/MidusCollege2022.xls)<br>
+  ┗ 📜[pdf solution](/R_Assignment_2/R_Assignment_2.pdf)<br>
+  ┗ 📜[word solution](/R_Assignment_2/R_Assignment_2.docx)
 
